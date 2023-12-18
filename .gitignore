@@ -1,2 +1,4 @@
 /bin
 /obj
+Pizzas.db-shm
+Pizzas.db-wal
