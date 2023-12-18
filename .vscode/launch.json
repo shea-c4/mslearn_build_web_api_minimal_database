@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: PizzaStore [https]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\PizzaStore.csproj",
+            "launchConfigurationId": "TargetFramework=;https"            
+        }
+    ]
+}
